@@ -1,0 +1,8 @@
+projects/ecommerce/vendor
+projects/ecommerce/.env
+projects/ecommerce/resources/views/buy_conditions.blade.php
+projects/ecommerce/resources/views/faqs.blade.blade.php
+projects/ecommerce/resources/views/legal_advice.blade.php
+projects/ecommerce/resources/views/warranty.blade.php
+projects/ecommerce/resources/views/politicy.blade.php
+
