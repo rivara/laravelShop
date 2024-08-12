@@ -210,6 +210,3 @@ If you'd like to support this project, you can make a donation via PayPal. Your 
 </a>
 
 
-<a href="https://www.paypal.com/donate?hosted_button_id=YOUR_UNIQUE_CODE_HERE" target="_blank">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal" />
-</a>
